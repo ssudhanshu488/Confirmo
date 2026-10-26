@@ -85,9 +85,7 @@ Image Manipulation - Jimp
   Verification
   <img  alt="image" src="https://github.com/thehardiik/Confirmo/blob/main/assets/architecture/Verification.jpeg">
 
-## Contributors
 
-~ Hardik Srivastav (that's me) <br>
 
    
   
